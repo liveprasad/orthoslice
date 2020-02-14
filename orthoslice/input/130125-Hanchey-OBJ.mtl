@@ -1,0 +1,34 @@
+newmtl 130125-Hanchey.dgn_Default_2-Main-RGB(255,255,255)_
+    Ns 23.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_1-Base-RGB(0,0,255)_
+    Ns 23.000000
+    Kd 0.000000 0.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_2-Main-RGB(0,0,255)_
+    Ns 23.000000
+    Kd 0.000000 0.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_3-Entry-RGB(0,0,255)_
+    Ns 23.000000
+    Kd 0.000000 0.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_1-Base-RGB(255,0,0)_
+    Ns 23.000000
+    Kd 1.000000 0.000000 0.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_4-SuperStructure-RGB(255,255,255)_
+    Ns 23.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 1.000000 1.000000 1.000000
+
+newmtl 130125-Hanchey.dgn_Default_Working1-RGB(0,0,255)_
+    Ns 23.000000
+    Kd 0.000000 0.000000 1.000000
+    Ks 1.000000 1.000000 1.000000

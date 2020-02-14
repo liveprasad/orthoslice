@@ -1,0 +1,59 @@
+newmtl symmetryPlane
+ 		Ka 1.0 1.0 1.0
+ 		Kd 1.0 1.0 1.0
+ 		Ks 1.0000 1.0000 1.0000
+ 		Tf 1.0 1.0 1.0
+newmtl symmetryPlane6
+ 		Ka 0.01 0.03 0.03
+ 		Kd 0.5086 0.086 0.2086
+ 		Ks 0.0000 0.0000 0.0000
+ 		Tf 0.9885 0.9885 0.678
+newmtl symmetryPlane1
+ 		Ka 0.01 0.6 0.03
+ 		Kd 0.5086 0.086 0.3
+ 		Ks 0.3000 0.3000 0.5000
+ 		Tf 0.9885 0.9885 0.678
+newmtl symmetryPlane2
+ 		Ka 0.5 0.03 0.03
+ 		Kd 0.5 0.1 1
+ 		Ks 0.0000 0.0000 0.0000
+ 		Tf 0.9885 0.9885 0.678
+newmtl symmetryPlane3
+ 		Ka 0.01 0.03 0.03
+ 		Kd 0.1 0.886 0.9
+ 		Ks 0.5000 0.2000 0.7000
+ 		Tf 0.9885 0.9885 0.678
+newmtl symmetryPlane4
+ 		Ka 0.2 0.300 0.700
+ 		Kd 0.5860 0.806 0.2086
+ 		Ks 0.5000 0.900 0.7000
+ 		Tf 0.9885 0.9885 0.678
+newmtl symmetryPlane5
+ 		Ka 0.05 0.02 0.02
+ 		Kd 0.3086 0.186 0.86
+ 		Ks 0.0000 0.8900 0.0000
+ 		Tf 0.9885 0.9885 0.678
+
+newmtl  articulation_point
+ 		Ka 0.000 0.35 1
+ 		Kd 0.000 0.35 1
+ 		Ks 0.000 0.35 1
+ 		Tf 0.000 0.35 1
+
+newmtl  white_col
+		Ka 1 1 1
+ 		Kd 1 1 1
+ 		Ks 1 1 1
+ 		Tf 1 1 1
+
+newmtl hole_col
+
+		Ka 0.4 0.4 0.4
+ 		Kd 0.4 0.4 0.4
+ 		Ks 0.4 0.4 0.4
+ 		Tf 0.4 0.4 0.4
+newmtl weigth_edge_col
+ 		Ka 0.01 0.6 0.03
+ 		Kd 0.5086 0.086 0.3
+ 		Ks 0.3000 0.3000 0.5000
+ 		Tf 0.9885 0.9885 0.678
